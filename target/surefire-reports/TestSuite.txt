@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 6, Time elapsed: 6.378 s <<< FAILURE! - in TestSuite
+(com.guna.automation.testcases.Maven_Demo)  Time elapsed: 6.172 s  <<< FAILURE!
+java.lang.NullPointerException
+
